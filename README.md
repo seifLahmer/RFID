@@ -1,1 +1,1 @@
-I developed a project that utilizes an ESP8266 microcontroller and RFID modules to read RFID tags. The data collected from the tags is transmitted via the MQTT protocol for further processing and analysis using a Python-based ETL pipeline.
+#I developed a project that utilizes an ESP8266 microcontroller and RFID modules to read RFID tags. The data collected from the tags is transmitted via the MQTT protocol for further processing and analysis using a Python-based ETL pipeline.
